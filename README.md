@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dmzazz
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning NextJs
+- 📫 How to reach me dimas-phi.vercel.app
 
 <!---
 dmzazz/dmzazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

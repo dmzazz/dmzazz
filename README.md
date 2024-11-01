@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dmzazz
+- 👋 Hi, I’m mass
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning NextJs, Typescript
 - 📫 How to reach me dimas-phi.vercel.app
 
 <!---

@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dimas Azizir 👋</h1>
-<h3 align="center">A passionate Fullstack Developer who loves to innovate and share ideas 💡</h3>
+<h3 align="center">A passionate Software Developer who loves to innovate and share ideas 💡</h3>
 <p align="center"><i>"Innovation and ideas are my fuel for growth and contribution 🌍"</i></p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
-- 👀 I’m interested in **Frontend Developer**
+- 👀 I’m interested in **Software Developer**
 - 🌱 I’m currently learning **Typescript**, **NextJs**, **Prisma**, **Zustand**
 - 👨‍💻 All of my projects are available at [dimasazizir.vercel.app](https://dimasazizir.vercel.app)
 - 📫 How to reach me [dmzazz9@gmail.com](mailto:dmzazz9@gmail.com)

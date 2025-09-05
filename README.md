@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Dimas Azizir 👋</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Fullstack Developer who loves to innovate and share ideas 💡</h3>
+
+### ✨ Motto  
+<p align="center"><i>"Innovation and ideas are my fuel for growth and contribution 🌍"</i></p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
 - 👀 I’m interested in **Frontend Developer**

@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmzazz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmzazz&layout=compact&theme=dark)
 
-(https://github-readme-codewars-stats.herokuapp.com/api/?username=dmzazz&badge&name_only)
+[![My CodeWars Stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=dmzazz&badge&name_only)](https://www.codewars.com/users/dmzazz)
 <!---
 dmzazz/dmzazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

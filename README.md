@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Dimas Azizir 👋</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
 - 👀 I’m interested in **Frontend Developer**
 - 🌱 I’m currently learning **Typescript** and **NextJs**
 - 📫 How to reach me [dimasazizir.vercel.app](https://dimasazizir.vercel.app/)
@@ -23,7 +24,7 @@
 </p>
 
 
----
+--
 
 <div style="display: flex; justify-content: space-between;">
   <div>

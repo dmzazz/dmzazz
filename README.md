@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Dimas Azizir 👋</h1>
 <h3 align="center">A passionate Fullstack Developer who loves to innovate and share ideas 💡</h3>
+<p align="center"><i>"Innovation and ideas are my fuel for growth and contribution 🌍"</i></p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
 - 👀 I’m interested in **Frontend Developer**
@@ -31,9 +32,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmzazz&layout=compact&theme=dark" alt="Top Langs"/>
-
-### ✨ Motto  
-<p align="center"><i>"Innovation and ideas are my fuel for growth and contribution 🌍"</i></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dmzazz&show_icons=true&theme=dark" alt="Anurag's GitHub stats"/>
 

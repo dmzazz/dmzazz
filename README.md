@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
 - 👀 I’m interested in **Frontend Developer**
-- 🌱 I’m currently learning **Typescript** and **NextJs**
+- 🌱 I’m currently learning **Typescript**, **NextJs**, **Prisma**, **Zustand**
 - 📫 How to reach me [dimasazizir.vercel.app](https://dimasazizir.vercel.app/)
 
 💻 Working on:

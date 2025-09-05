@@ -23,25 +23,17 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-
---
-
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=dmzazz&show_icons=true&theme=dark" alt="Anurag's GitHub stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmzazz&layout=compact&theme=dark" alt="Top Langs"/>
-  </div>
-</div>
-
----
 🏆 Codewars
 <p align="left">
   <a href="https://www.codewars.com/users/dmzazz">
     <img src="https://www.codewars.com/users/dmzazz/badges/large" alt="Codewars Badge"/>
   </a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmzazz&layout=compact&theme=dark" alt="Top Langs"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dmzazz&show_icons=true&theme=dark" alt="Anurag's GitHub stats"/>
+
 <!---
 dmzazz/dmzazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

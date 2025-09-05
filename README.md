@@ -5,7 +5,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dmzazz)
 - 👀 I’m interested in **Frontend Developer**
 - 🌱 I’m currently learning **Typescript**, **NextJs**, **Prisma**, **Zustand**
-- 📫 How to reach me [dimasazizir.vercel.app](https://dimasazizir.vercel.app/)
+- 👨‍💻 All of my projects are available at [dimasazizir.vercel.app](https://dimasazizir.vercel.app)
+- 📫 How to reach me [dmzazz9@gmail.com](mailto:dmzazz9@gmail.com)
 
 💻 Working on:
 <p align="left">
@@ -24,7 +25,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-🏆 Codewars
+🏆 **Codewars**
 <p align="left">
   <a href="https://www.codewars.com/users/dmzazz">
     <img src="https://www.codewars.com/users/dmzazz/badges/large" alt="Codewars Badge"/>

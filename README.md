@@ -34,7 +34,9 @@
   </div>
 </div>
 
-<p align="center">
+---
+🏆 Codewars
+<p align="left">
   <a href="https://www.codewars.com/users/dmzazz">
     <img src="https://www.codewars.com/users/dmzazz/badges/large" alt="Codewars Badge"/>
   </a>

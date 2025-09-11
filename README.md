@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [dimasazizir.vercel.app](https://dimasazizir.vercel.app)
 - 📫 How to reach me [dmzazz9@gmail.com](mailto:dmzazz9@gmail.com)
 
-💻 Working on:
+<h2>💻 Working on:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />

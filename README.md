@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [dimasazizir.vercel.app](https://dimasazizir.vercel.app)
 - 📫 How to reach me [dmzazz9@gmail.com](mailto:dmzazz9@gmail.com)
 
-<h2>💻 **Working on:**</h2>
+<h2>💻 Working on:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Shadcn%2FUI-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-<h2>🔥 **Interested:**</h2>
+<h2>🔥 Interested:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-<h2>🏆 **Codewars**</h2>
+<h2>🏆 Codewars</h2>
 <p align="left">
   <a href="https://www.codewars.com/users/dmzazz">
     <img src="https://www.codewars.com/users/dmzazz/badges/large" alt="Codewars Badge"/>
